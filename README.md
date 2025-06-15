@@ -1,1 +1,1 @@
-# pomodoro.github.io1
+# A pomodoro web application
